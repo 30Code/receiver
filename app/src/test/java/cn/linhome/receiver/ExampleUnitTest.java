@@ -1,4 +1,4 @@
-package com.fanwe.receiver;
+package cn.linhome.receiver;
 
 import org.junit.Test;
 

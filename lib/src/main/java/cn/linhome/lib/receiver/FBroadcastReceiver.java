@@ -1,4 +1,4 @@
-package com.fanwe.lib.receiver;
+package cn.linhome.lib.receiver;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

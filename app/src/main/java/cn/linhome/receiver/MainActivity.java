@@ -1,11 +1,11 @@
-package com.fanwe.receiver;
+package cn.linhome.receiver;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
-import com.fanwe.lib.receiver.FHeadsetPlugReceiver;
-import com.fanwe.lib.receiver.FNetworkReceiver;
+import cn.linhome.lib.receiver.FHeadsetPlugReceiver;
+import cn.linhome.lib.receiver.FNetworkReceiver;
 
 public class MainActivity extends AppCompatActivity
 {

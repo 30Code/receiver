@@ -1,4 +1,4 @@
-package com.fanwe.receiver;
+package cn.linhome.receiver;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
